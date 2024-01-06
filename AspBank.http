@@ -1,0 +1,6 @@
+@AspBank_HostAddress = http://localhost:5278
+
+GET {{AspBank_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
